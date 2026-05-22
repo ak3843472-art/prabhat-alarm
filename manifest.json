@@ -1,0 +1,18 @@
+{
+  "name": "PRABHAT – प्रभात",
+  "short_name": "PRABHAT",
+  "description": "Spiritual Morning Alarm with Mantras",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF8C00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
