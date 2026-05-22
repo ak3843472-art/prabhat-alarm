@@ -1,0 +1,18 @@
+{
+  "background_color": "#000000",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "Prabhat morning spiritual alarm",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Prabhat morning spiritual alarm",
+  "start_url": "/index.htlm",
+  "theme_color": "#ffd700",
+  "id": "Io.github.ak3843472.prabhatalarm",
+  "description": "Morning spiritual alarm designed for your spiritual morning routine, featuring daily mantras.",
+  "categories": [
+    "lifestyle",
+    "utilities"
+  ],
+  "lang": "en"
+}
